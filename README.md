@@ -39,12 +39,4 @@ Open the Jupyter Notebook (0bjectdetection_Using_YOLO.ipynb) in your preferred e
 
 Follow the steps in the notebook to load the YOLO model, process images or videos, and visualize the results.
 
-**Project Structure**
 
-0bjectdetection_Using_YOLO.ipynb: Main notebook containing the implementation of YOLO object detection.
-
-requirements.txt: List of Python dependencies.
-
-data/: Directory for input images and videos.
-
-output/: Directory for saving detection results.
