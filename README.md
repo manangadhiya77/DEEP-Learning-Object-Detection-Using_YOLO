@@ -35,7 +35,7 @@ Download the pre-trained YOLO weights and configuration files from the official 
 
 Open the Jupyter Notebook (0bjectdetection_Using_YOLO.ipynb) in your preferred environment:
 
-jupyter notebook 0bjectdetection_Using_YOLO.ipynb
+**jupyter notebook 0bjectdetection_Using_YOLO.ipynb**
 
 Follow the steps in the notebook to load the YOLO model, process images or videos, and visualize the results.
 
