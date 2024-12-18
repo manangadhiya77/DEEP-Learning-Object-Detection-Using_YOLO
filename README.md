@@ -2,7 +2,7 @@
 
 This repository contains an implementation of object detection using the YOLO (You Only Look Once) algorithm. The project leverages pre-trained YOLO models to detect and classify objects in images and videos efficiently.
 
-Features
+**Features**
 
 Real-time object detection using YOLO.
 
@@ -12,21 +12,21 @@ Visualization of detection results.
 
 Easy-to-follow code in a Jupyter Notebook.
 
-Prerequisites
+**Prerequisites**
 
 Python 3.7+
 
 Jupyter Notebook
 
-Libraries: TensorFlow, OpenCV, NumPy, Matplotlib
+**Libraries:** TensorFlow, OpenCV, NumPy, Matplotlib
 
 Ensure you have these installed. You can install the necessary Python packages using:
 
 pip install -r requirements.txt
 
-How to Use
+**How to Use**
 
-Clone this repository:
+**Clone this repository:**
 
 git clone https://github.com/manangadhiya77/DEEP-Learning-Object-Detection-Using_YOLO.git
 cd your-repo-name
@@ -39,7 +39,7 @@ jupyter notebook 0bjectdetection_Using_YOLO.ipynb
 
 Follow the steps in the notebook to load the YOLO model, process images or videos, and visualize the results.
 
-Project Structure
+**Project Structure**
 
 0bjectdetection_Using_YOLO.ipynb: Main notebook containing the implementation of YOLO object detection.
 
