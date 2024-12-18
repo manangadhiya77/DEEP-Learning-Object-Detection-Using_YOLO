@@ -28,7 +28,7 @@ How to Use
 
 Clone this repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/manangadhiya77/DEEP-Learning-Object-Detection-Using_YOLO.git
 cd your-repo-name
 
 Download the pre-trained YOLO weights and configuration files from the official YOLO website or other trusted sources.
